@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dynamixel
+Version: installer
+Summary: Dynamixel Servo Library
+Home-page: http://code.google.com/p/pydynamixel/
+Author: Patrick Goebel
+Author-email: patrick@pirobot.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: Posix; MacOS X; Windows
