@@ -1,1 +1,1 @@
-# sphericalRobot
+# Spherical Robot for Search and Reconnaisance
