@@ -1,0 +1,1 @@
+mplayer -fps 200 -demuxer h264es ffmpeg://tcp://192.168.1.147:8090
